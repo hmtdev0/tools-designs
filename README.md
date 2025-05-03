@@ -1,6 +1,6 @@
-# 🛠️ Tools & Designs - Web Development Utilities
+# 🛠️ Tools & Designs – Curated Design Resources for Creatives
 
-A beautifully designed, responsive frontend website offering free tools, design services, and resources for developers and creatives. Built with **HTML5**, **CSS3**, **Bootstrap 5**, and **JavaScript**, this project showcases modern UI/UX principles.
+**Tools & Designs** is a curated collection of over **1,500+ free design resources** for developers, designers, and creative professionals. Built with **HTML5**, **CSS3**, **Bootstrap 5**, and **JavaScript**, this responsive website serves as a comprehensive hub for high-quality assets and inspiration.
 
 ## 🔗 Live Demo
 
@@ -16,64 +16,38 @@ A beautifully designed, responsive frontend website offering free tools, design 
 
 ## 📝 Project Overview
 
-**Tools & Designs** is a static frontend template built for promoting tools, design services, and creative resources. The layout is clean and intuitive, designed to attract users with clear calls-to-action, professional sections, and a modern feel.
+This project aims to provide a centralized platform for accessing a wide range of design resources. Whether you're a developer seeking icons or a designer looking for typography inspiration, **Tools & Designs** offers organized categories to streamline your creative process.
 
 ---
 
-## ⚙️ Key Features
+## 📂 Key Sections & Features
 
-### 🔝 Top Header Section
-- Operating hours
-- Contact number
-- Highlighted offers
-
-### 🧭 Navigation Bar
-- Responsive menu with sticky scroll behavior
-
-### ✨ Hero Section
-- Eye-catching image and promotional text
-- Strong CTA button for conversions
-
-### 👨‍💼 About Us Section
-- Short story with image and call to portfolio
-
-### 💡 Services Section
-- Bootstrap 5 grid system
-- Icon cards with hover effects for interactivity
-
-### 🧰 Tools & Projects Section
-- Portfolio layout to showcase work
-- Informational cards with hover effects
-
-### 📩 Newsletter Banner
-- Email input for newsletter subscription
-- Conversion-friendly design
-
-### 💬 Client Testimonials
-- Clean testimonial cards
-- Avatar, name, and feedback included
-
-### 📞 Contact Us
-- Functional contact form (static)
-- Contact details: phone, email, location
-
-### 🔻 Footer
-- Navigation links, branding, and author credits
+- **Home**: Introduction to the platform with a call-to-action to explore resources.
+- **Blog**: Articles and insights related to design and development.
+- **Deals**: Curated deals and offers on design tools and assets.
+- **Icons**: A selection of icon packs for various design needs.
+- **Books**: Recommended readings for designers and developers.
+- **Mockups**: High-quality mockup templates for showcasing work.
+- **Typography**: A collection of fonts and typography resources.
+- **Stock Photos**: Free stock images for personal and commercial use.
+- **Learning**: Educational resources and tutorials.
+- **UI Inspiration**: Galleries and showcases for UI design inspiration.
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
-- Bootstrap 5  
+- HTML5
+- CSS3
+- Bootstrap 5
 - JavaScript
 
 ---
 
-## 📱 Fully Responsive Design
+## 📱 Responsive Design
 
-The layout works flawlessly across:
+The website is fully responsive, ensuring optimal viewing experiences across devices:
+
 - 📱 Mobile
 - 💻 Tablet
 - 🖥️ Desktop
@@ -82,10 +56,10 @@ The layout works flawlessly across:
 
 ## 📞 Contact & Social Media
 
-- 🔵 [Facebook Page - HMT Dev](https://www.facebook.com/hmtdev0)  
-- 👤 [Facebook Profile - Husnain Manzoor](https://www.facebook.com/husnainmanzoor7arar/)  
-- 💬 [WhatsApp](https://wa.me/+923479224005)  
+- 🔵 [Facebook Page - HMT Dev](https://www.facebook.com/hmtdev0)
+- 👤 [Facebook Profile - Husnain Manzoor](https://www.facebook.com/husnainmanzoor7arar/)
 - 📸 [Instagram - @hmtdev](https://www.instagram.com/hmtdev)
+- 💬 [WhatsApp](https://wa.me/+923479224005)
 
 ---
 
